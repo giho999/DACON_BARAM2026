@@ -1,0 +1,6 @@
+[W2 seed1337] 피처 454개 · 행 26197 (캐시 로드 1s)
+  G1 완료 (22s) kept=0.627
+  G2 완료 (42s) kept=0.626
+  G3 완료 (61s) kept=0.566
+[W2 seed1337] test 예측 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_test_W2_seed1337.parquet
+[W2 seed1337] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W2_seed1337.parquet  (총 61s)

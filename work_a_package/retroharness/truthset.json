@@ -1,0 +1,210 @@
+{
+  "base": "submission_A_m1v2_coordBA.csv",
+  "base_lb": 0.65466,
+  "base_md5": "9f792b404d67e3377003e0264424991a",
+  "n": 8,
+  "candidates": [
+    {
+      "file": "work_a_package/submission_coordBA_g3tail_l120.csv",
+      "lb": 0.65416,
+      "label": -0.000500000000000056,
+      "md5": "722db0bbe71adb7637c595a65f0a74f2",
+      "transform": {
+        "G1": {
+          "type": "unchanged"
+        },
+        "G2": {
+          "type": "unchanged"
+        },
+        "G3": {
+          "type": "mixed",
+          "n": 1129,
+          "min": 1.291,
+          "max": 847.93,
+          "n_uniq": 1128
+        }
+      }
+    },
+    {
+      "file": "submission_A_m1v2.csv",
+      "lb": 0.65403,
+      "label": -0.0006300000000000194,
+      "md5": "6d5e4214dfeadb898d5af81245308d58",
+      "transform": {
+        "G1": {
+          "type": "mixed",
+          "n": 1572,
+          "min": -216.0,
+          "max": -57.033,
+          "n_uniq": 8
+        },
+        "G2": {
+          "type": "unchanged"
+        },
+        "G3": {
+          "type": "unchanged"
+        }
+      }
+    },
+    {
+      "file": "submission_A_m1v3.csv",
+      "lb": 0.65377,
+      "label": -0.0008900000000000574,
+      "md5": "1f2b28bab5a657c295b6efab8f5c8484",
+      "transform": {
+        "G1": {
+          "type": "conditional_band",
+          "n": 4041,
+          "min": -972.0,
+          "max": 669.6,
+          "n_uniq": 11
+        },
+        "G2": {
+          "type": "conditional_band",
+          "n": 2443,
+          "min": -864.0,
+          "max": 993.6,
+          "n_uniq": 3
+        },
+        "G3": {
+          "type": "conditional_band",
+          "n": 3566,
+          "min": -1155.0,
+          "max": 609.0,
+          "n_uniq": 3
+        }
+      }
+    },
+    {
+      "file": "submission_m1_bandcorrected.csv",
+      "lb": 0.65293,
+      "label": -0.0017300000000000093,
+      "md5": "e0eefeeb4b8d568f067cffdad86d7e5e",
+      "transform": {
+        "G1": {
+          "type": "conditional_band",
+          "n": 4669,
+          "min": -972.0,
+          "max": 1296.0,
+          "n_uniq": 11
+        },
+        "G2": {
+          "type": "conditional_band",
+          "n": 3038,
+          "min": -864.0,
+          "max": 648.0,
+          "n_uniq": 3
+        },
+        "G3": {
+          "type": "conditional_band",
+          "n": 4007,
+          "min": -1155.0,
+          "max": 1050.0,
+          "n_uniq": 3
+        }
+      }
+    },
+    {
+      "file": "submission_ficr_w1_v7_cnn(0.65183).csv",
+      "lb": 0.65184,
+      "label": -0.0028200000000000447,
+      "md5": "18a256c399c4273d5b097c8f814c7a22",
+      "transform": {
+        "G1": {
+          "type": "mixed",
+          "n": 4041,
+          "min": -972.0,
+          "max": -57.033,
+          "n_uniq": 9
+        },
+        "G2": {
+          "type": "const_add",
+          "val": -864.0,
+          "n": 2443
+        },
+        "G3": {
+          "type": "const_add",
+          "val": -1155.0,
+          "n": 3566
+        }
+      }
+    },
+    {
+      "file": "submission_A_g3shift03.csv",
+      "lb": 0.65114,
+      "label": -0.0035199999999999676,
+      "md5": "5e73e38c920d72d26ad027bb5ba0ccf2",
+      "transform": {
+        "G1": {
+          "type": "mixed",
+          "n": 1572,
+          "min": -216.0,
+          "max": -57.033,
+          "n_uniq": 8
+        },
+        "G2": {
+          "type": "unchanged"
+        },
+        "G3": {
+          "type": "const_add",
+          "val": 630.0,
+          "n": 8760
+        }
+      }
+    },
+    {
+      "file": "submission_A_avgblend.csv",
+      "lb": 0.64853,
+      "label": -0.006129999999999969,
+      "md5": "11f0032d2be6454c5af3c1177e702d98",
+      "transform": {
+        "G1": {
+          "type": "mixed",
+          "n": 1572,
+          "min": -216.0,
+          "max": -57.033,
+          "n_uniq": 8
+        },
+        "G2": {
+          "type": "unchanged"
+        },
+        "G3": {
+          "type": "conditional_band",
+          "n": 8760,
+          "min": -4341.562316,
+          "max": 4257.07642,
+          "n_uniq": 8760
+        }
+      }
+    },
+    {
+      "file": "submission_dm.csv",
+      "lb": 0.63421,
+      "label": -0.020449999999999968,
+      "md5": "edd5bf82112e6b9cf9bac0218f7a1ca4",
+      "transform": {
+        "G1": {
+          "type": "conditional_band",
+          "n": 8123,
+          "min": -324.0,
+          "max": 864.0,
+          "n_uniq": 37
+        },
+        "G2": {
+          "type": "conditional_band",
+          "n": 8088,
+          "min": -540.0,
+          "max": 864.0,
+          "n_uniq": 6
+        },
+        "G3": {
+          "type": "conditional_band",
+          "n": 8760,
+          "min": -735.0,
+          "max": 840.0,
+          "n_uniq": 5
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "auc_mean": 0.997338066929494,
+  "results": {
+    "C_g3tail": {
+      "label": -0.000500000000000056,
+      "V_A_rolling": 0.0019835077930174805,
+      "V_B_yeartransfer": 0.0020392605888771564,
+      "V_C_adversarial": 0.002825497209220984,
+      "V_D_windquantile": 0.002173882062917243,
+      "V_E_multiyear": 0.0020392605888771564
+    },
+    "C_m1v2": {
+      "label": -0.0006300000000000194,
+      "V_A_rolling": -0.0007428177462840413,
+      "V_B_yeartransfer": -0.0010015019040824358,
+      "V_C_adversarial": -0.0012154329041783596,
+      "V_D_windquantile": -0.001076114993258881,
+      "V_E_multiyear": -0.0010015019040824358
+    },
+    "C_band": {
+      "label": -0.0017300000000000093,
+      "V_A_rolling": -0.0069657830161875545,
+      "V_B_yeartransfer": -0.0045696357265667675,
+      "V_C_adversarial": -0.002989402194630175,
+      "V_D_windquantile": -0.0041982600244832025,
+      "V_E_multiyear": -0.0045696357265667675
+    },
+    "C_g3shift": {
+      "label": -0.0035199999999999676,
+      "V_A_rolling": -0.0016785581132656713,
+      "V_B_yeartransfer": -0.0009603444572995334,
+      "V_C_adversarial": -3.820177714708439e-05,
+      "V_D_windquantile": -0.0006838538640179248,
+      "V_E_multiyear": -0.0009603444572995334
+    }
+  },
+  "summary": {
+    "V_A_rolling": {
+      "sign_acc": 0.75,
+      "spearman": 0.7999999999999999,
+      "p": 0.20000000000000007,
+      "fp_rate": 0.0
+    },
+    "V_B_yeartransfer": {
+      "sign_acc": 0.75,
+      "spearman": 0.39999999999999997,
+      "p": 0.6,
+      "fp_rate": 0.0
+    },
+    "V_C_adversarial": {
+      "sign_acc": 0.75,
+      "spearman": 0.39999999999999997,
+      "p": 0.6,
+      "fp_rate": 0.0
+    },
+    "V_D_windquantile": {
+      "sign_acc": 0.75,
+      "spearman": 0.39999999999999997,
+      "p": 0.6,
+      "fp_rate": 0.0
+    },
+    "V_E_multiyear": {
+      "sign_acc": 0.75,
+      "spearman": 0.39999999999999997,
+      "p": 0.6,
+      "fp_rate": 0.0
+    }
+  },
+  "null": {
+    "const_sacc": 1.0,
+    "shuffle_ci": [
+      -1.0,
+      1.0
+    ]
+  },
+  "verdict": {
+    "V_A_rolling": {
+      "pass_thresholds": false,
+      "above_null": false,
+      "pass_all": false
+    },
+    "V_B_yeartransfer": {
+      "pass_thresholds": false,
+      "above_null": false,
+      "pass_all": false
+    },
+    "V_C_adversarial": {
+      "pass_thresholds": false,
+      "above_null": false,
+      "pass_all": false
+    },
+    "V_D_windquantile": {
+      "pass_thresholds": false,
+      "above_null": false,
+      "pass_all": false
+    },
+    "V_E_multiyear": {
+      "pass_thresholds": false,
+      "above_null": false,
+      "pass_all": false
+    }
+  },
+  "wind_quantiles": {}
+}

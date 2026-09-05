@@ -1,0 +1,11 @@
+[done] W0 42 rc=0 [W0 seed42] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W0_seed42.parquet  (총 72s)
+[done] W0 1337 rc=0 [W0 seed1337] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W0_seed1337.parquet  (총 72s)
+[done] W0 2024 rc=0 [W0 seed2024] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W0_seed2024.parquet  (총 73s)
+[done] W1 42 rc=0 [W1 seed42] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W1_seed42.parquet  (총 68s)
+[done] W1 1337 rc=0 [W1 seed1337] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W1_seed1337.parquet  (총 71s)
+[done] W1 2024 rc=0 [W1 seed2024] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W1_seed2024.parquet  (총 76s)
+[done] W2 42 rc=0 [W2 seed42] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W2_seed42.parquet  (총 27s)
+[done] W2 1337 rc=0 [W2 seed1337] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W2_seed1337.parquet  (총 32s)
+[done] W2 2024 rc=0 [W2 seed2024] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W2_seed2024.parquet  (총 33s)
+[done] W2S 42 rc=0 [W2S seed42] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W2S_seed42.parquet  (총 33s)
+=== ALL DONE ===

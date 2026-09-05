@@ -1,0 +1,5 @@
+[W2 seed42] 피처 454개 · 행 26197 (캐시 로드 1s)
+  G1 완료 (21s) kept=0.627
+  G2 완료 (40s) kept=0.626
+  G3 완료 (59s) kept=0.566
+[W2 seed42] 저장 /home/gpu_04/DACON_baram2026/work_a_package/metricw/pred_W2_seed42.parquet  (총 59s)

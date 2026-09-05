@@ -1,0 +1,29 @@
+# --- 대회 제공 데이터 / 대용량 캐시 (저작권·용량 사유로 저장소 제외) ---
+data/
+*.zip
+cache_train.parquet
+cache_test.parquet
+grid_tensors_cache_test.pkl
+merged_*.csv
+gfs_*.csv
+ldaps_*.csv
+scada_*.csv
+train_labels.csv
+cleaned_train_v3.csv
+lean_*.parquet
+
+# --- 실험용 대량 제출본 (tail matrix 등) ---
+submission_tail*.csv
+submission_coordBA_g3tail*.csv
+
+# --- 환경 ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+catboost_info/
+.DS_Store
+.claude/
+.omo/
+.pytest_cache/
